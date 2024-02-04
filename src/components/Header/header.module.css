@@ -1,0 +1,18 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #80ced6;
+  height: 50px;
+}
+
+.linkContainer {
+  display: flex;
+}
+.linkContainer li {
+  margin: 0 10px;
+}
+.linkContainer li:hover {
+  /* background-color: ; */
+  color: lightslategrey;
+}
